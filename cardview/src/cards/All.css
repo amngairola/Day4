@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400&display=swap");
+
+.Topimg {
+  width: 40%;
+  float: left;
+}
+.card {
+  background: white;
+  flex-direction: row;
+  display: flex;
+}
+.topcard {
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+  flex-direction: row;
+  display: flex;
+  margin-top: 5vh;
+}
+
+.cardbody {
+  padding: 2vh;
+  font-family: "Roboto Slab", serif;
+  align-items: center;
+}
+h6 {
+  opacity: 0.4;
+}
+.tag {
+  background: rgb(227, 221, 221);
+  width: fit-content;
+  padding: 1vh;
+  border-radius: 2vh;
+}
+.padding {
+  margin-right: auto;
+  margin-left: 50vh;
+  margin-top: -60vh;
+}
+
+.botttom {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  background: red;
+  width: 50%;
+}
+.bottomcard {
+  font-family: "Roboto Slab", serif;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 40vh;
+}
+.cards {
+  width: 50%;
+  background: white;
+
+  margin: 2vh;
+}
+.cardbodey {
+  float: right;
+}
+.Topimage {
+  width: 100%;
+}
